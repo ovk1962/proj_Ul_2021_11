@@ -1,0 +1,50 @@
+2020-09-06 18:35:31,314 - ERROR - err_rd_term => 128
+2020-09-06 18:35:33,832 - ERROR - err_rd_term => 4
+2020-09-06 18:35:36,350 - ERROR - err_rd_term => 4
+2020-09-06 18:35:38,869 - ERROR - err_rd_term => 4
+2020-09-06 18:35:41,387 - ERROR - err_rd_term => 4
+2020-09-06 18:35:43,906 - ERROR - err_rd_term => 4
+2020-09-06 18:35:46,424 - ERROR - err_rd_term => 4
+2020-09-06 18:35:48,942 - ERROR - err_rd_term => 4
+2020-09-06 18:35:51,460 - ERROR - err_rd_term => 4
+2020-09-06 18:35:53,979 - ERROR - err_rd_term => 4
+2020-09-06 18:35:56,496 - ERROR - err_rd_term => 4
+2020-09-06 18:35:59,014 - ERROR - err_rd_term => 4
+2020-09-09 16:29:11,441 - ERROR - err_rd_term => 128
+2020-09-09 16:29:14,083 - ERROR - err_rd_term => 4
+2020-09-09 16:29:16,624 - ERROR - err_rd_term => 4
+2020-09-09 16:29:19,168 - ERROR - err_rd_term => 4
+2020-11-23 13:13:18,416 - ERROR - err_rd_term => 1
+2020-11-23 13:13:24,079 - ERROR - err_rd_term => 1
+2020-11-23 13:13:40,100 - ERROR - err_rd_term => 1
+2020-11-23 13:13:53,110 - ERROR - err_rd_term => 1
+2020-11-30 17:04:38,479 - ERROR - err_rd_term => unpack_hist_FUT / try  
+name 'Class_str_FUT_PCK' is not defined
+2020-11-30 17:05:23,017 - ERROR - err_rd_term => read_cfg_PACK / try  
+type object 'Class_CNST' has no attribute 'kKoef'
+2021-05-03 21:00:54,857 - ERROR - err_rd_term => 1
+2021-05-03 21:00:57,478 - ERROR - err_rd_term => 1
+2021-05-03 21:01:02,453 - ERROR - err_rd_term => 1
+2021-05-03 21:01:04,990 - ERROR - err_rd_term => 1
+2021-05-03 21:01:07,528 - ERROR - err_rd_term => 1
+2021-05-03 21:01:10,204 - ERROR - err_rd_term => 1
+2021-05-03 21:01:21,094 - ERROR - err_rd_term => 1
+2021-05-03 21:01:37,736 - ERROR - err_rd_term => 1
+2021-05-03 21:01:40,724 - ERROR - err_rd_term => 1
+2021-05-03 21:01:54,241 - ERROR - err_rd_term => 1
+2021-05-03 21:01:56,956 - ERROR - err_rd_term => 1
+2021-05-03 21:02:32,507 - ERROR - err_rd_term => 1
+2021-05-03 21:02:35,046 - ERROR - err_rd_term => 1
+2021-05-03 21:02:37,584 - ERROR - err_rd_term => 1
+2021-05-03 21:02:40,123 - ERROR - err_rd_term => 1
+2021-05-03 21:02:42,661 - ERROR - err_rd_term => 1
+2021-11-08 19:22:54,296 - ERROR - err_rd_term => 1
+2021-11-08 19:23:15,215 - ERROR - err_rd_term => 1
+2021-11-08 19:23:18,179 - ERROR - err_rd_term => 1
+2021-11-08 19:23:26,541 - ERROR - err_rd_term => 1
+2021-11-08 19:23:34,996 - ERROR - err_rd_term => 1
+2021-11-08 19:23:37,867 - ERROR - err_rd_term => 1
+2021-11-09 03:33:05,576 - ERROR - err_rd_term => clc_EMA / try  
+list index out of range
+2021-11-09 03:33:05,576 - ERROR - err_rd_term => calc_arr_pck_today / Did not CALC EMA *hist_PACK* today!  
+list index out of range

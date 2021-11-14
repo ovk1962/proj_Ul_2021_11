@@ -1,0 +1,4 @@
+2020-12-04 07:38:26,452 - ERROR - err_rd_term => read_cfg_PACK / try  
+int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2020-12-04 07:38:37,668 - ERROR - err_rd_term => read_cfg_PACK / try  
+int() argument must be a string, a bytes-like object or a number, not 'NoneType'
